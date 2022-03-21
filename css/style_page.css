@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+body header h1 {
+	text-align: center;
+	color: #FFFFFF;
+
+}
+body header {
+	padding: 80px;
+	background-color: darkorange;
+}
+main {
+	padding-top: 17px;
+	padding-left: 19%;
+	padding-bottom: 17px;
+	background-color: #C5D077;
+	height: auto;
+}
+footer {
+	background-color: #FF5053;
+	color: #FFFFFF;
+	text-align: center;
+}
+footer h6 {
+	width: 15%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+main section {
+	padding: 15px;
+	background-color:goldenrod;
+	width: 80%;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+header nav main footer {
+	margin: 0 auto;
+	padding: 15px;
+	width: 90%;
+}
+nav {
+	background-color: #DCD321;
+}
+nav ul {
+	margin-right: auto;
+	margin-left: 30%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+nav ul li {
+	margin: 10px;
+	display: inline-block;
+	list-style-type: none;
+	font-style: 10%;
+}
+.size_video {
+	width: 60%;
+	padding: 10px;
+	height: auto;
+}
+main section h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-style: normal;
+	font-weight: 400;
+	text-align: left;
+}
+table,th,td{
+			border: 2px solid #5B0506;
+			border-collapse: collapse;
+		}
+		th,td{
+			padding: 2px;
+			text-align: center;
+/*			background-color: aqua;*/
+		}
+		h2{
+			font-size: 40px;
+		}
+		tr:hover{
+			background-color: deepskyblue;
+		}
+		#style_tabla_1,#style_tabla_1 th,#style_tabla_1 td{
+			border: 3px solid #983406;
+			border-collapse: separate;
+/*			background-color: lightgreen;*/
+		}
+		#style_tabla_1{
+			width: 600px;
+			height: 150px;
+		}
+		#style_tabla_1 th{
+			background-color: deepskyblue;
+		}
+		#style_tabla_1{
+			text-align: center;
+		}
+		/*#style_tabla_1 th{
+			border: 3px solid #983406;
+		}
+		#style_tabla_1 td{
+			border: 3px solid #983406;
+		}*/
+		#style_tabla_2 th, #style_tabla_2 td{
+			border: 3px solid #B1A004;
+		}
+		#style_tabla_2 tr:nth-child(even){
+			background-color: darksalmon;
+			color: yellow;
+		}
+		#style_tabla_2 tr:nth-child(odd){
+			background-color: olivedrab;
+			color: aliceblue;
+		}
+		#style_tabla_2 th{
+			background-color: darkred;
+			color: aqua;
+		}
+		#encabezado_verde{
+			color: darkgreen;
+		}
+		.encabezado_par{
+			color: darkblue;
+		}
+		.encabezado_impar{
+			color: crimson;
+		}

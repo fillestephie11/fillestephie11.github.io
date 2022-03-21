@@ -1,0 +1,88 @@
+@charset "utf-8";
+@import url("../webfonts/Southmore/stylesheet.css");
+@import url("../webfonts/adelia/stylesheet.css");
+
+
+body header h1 {
+	text-align: center;
+	color: #FFFFFF;
+
+}
+body header {
+	padding: 80px;
+	background-color: sandybrown;
+}
+main {
+	padding-top: 17px;
+	padding-left: 19%;
+	padding-bottom: 17px;
+	background-color:teal;
+	height: auto;
+}
+footer {
+	background-color:darkslategrey;
+	color: #FFFFFF;
+	text-align: center;
+}
+footer h6 {
+	width: 15%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+main section {
+	padding: 15px;
+	background-color: mediumpurple;
+	width: 80%;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+header nav main footer {
+	margin: 0 auto;
+	padding: 15px;
+	width: 90%;
+}
+nav {
+	background-color: #DCD321;
+}
+nav ul {
+	margin-right: auto;
+	margin-left: 30%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+nav ul li {
+	margin: 10px;
+	display: inline-block;
+	list-style-type: none;
+	font-style: 10%;
+}
+.size_video {
+	width: 60%;
+	padding: 10px;
+	height: auto;
+}
+main section h2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: normal;
+	font-weight: 400;
+	text-align: left;
+}
+fuente_google_local {
+	font-family: adelia;
+
+
+
+
+
+}
+.fuente_google_local {
+	font-family: adelia;
+}
+.fuente_google_enlazada {
+font-family: 'Montserrat', sans-serif;
+}	
